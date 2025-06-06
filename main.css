@@ -1,0 +1,43 @@
+*{
+    margin: 0em;
+    padding: 0em;
+    font-family: garamond;
+    background-color: #faf8f5;
+}
+
+body{
+    text-align: center;
+}
+
+figure img{
+    border-top: 1px solid #F5BD26;
+    border-bottom: 1px solid #F5BD26;
+}
+
+section ul{
+    list-style-type: none;
+    text-align: center;
+    margin-left: 20em;
+    margin-right: 20em;
+    padding-top: 1em;
+}
+
+li{
+    display: inline-block;
+    padding: 1em;
+}
+
+h2{
+    padding-top: 1em;
+}
+
+p{
+    border-top: 1px solid #F5BD26;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+footer address{
+    background-color: white;
+    padding: 2em;
+}
